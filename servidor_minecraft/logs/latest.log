@@ -1,0 +1,58 @@
+[03:26:43] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:26:45] [ServerMain/INFO]: Loaded 7 recipes
+[03:26:45] [ServerMain/INFO]: Loaded 1271 advancements
+[03:26:46] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[03:26:46] [Server thread/INFO]: Loading properties
+[03:26:46] [Server thread/INFO]: Default game type: SURVIVAL
+[03:26:46] [Server thread/INFO]: Generating keypair
+[03:26:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:26:46] [Server thread/INFO]: Using epoll channel type
+[03:26:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:26:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:26:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:26:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:26:46] [Server thread/INFO]: Preparing level "world"
+[03:26:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:26:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:27:01] [Server thread/INFO]: Time elapsed: 8636 ms
+[03:27:01] [Server thread/INFO]: Done (15.079s)! For help, type "help"
+[03:27:07] [Server thread/INFO]: JohanArtts[/127.23.102.31:41027] logged in with entity id 12 at (-963.2782839212288, 79.12160004615784, 356.3203106782252)
+[03:27:07] [Server thread/INFO]: JohanArtts joined the game
+[03:27:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3751ms or 75 ticks behind
+[03:27:11] [Server thread/INFO]: JNewHunter[/127.47.33.33:44873] logged in with entity id 13 at (-956.4404055705592, 86.41999998688698, 377.50334439630785)
+[03:27:11] [Server thread/INFO]: JNewHunter joined the game
+[03:27:40] [Server thread/INFO]: Irregular24[/127.102.188.188:33349] logged in with entity id 477 at (-940.9133167102116, 80.0, 352.5130416063024)
+[03:27:40] [Server thread/INFO]: Irregular24 joined the game
+[03:28:50] [Server thread/INFO]: JohanArtts has made the advancement [Ol' Betsy]
+[03:56:54] [Server thread/INFO]: Irregular24 lost connection: Disconnected
+[03:56:54] [Server thread/INFO]: Irregular24 left the game
+[03:57:15] [Server thread/INFO]: Irregular24[/127.102.188.188:42991] logged in with entity id 11495 at (-1221.0849018417418, 168.0, 175.10368572196705)
+[03:57:15] [Server thread/INFO]: Irregular24 joined the game
+[03:58:23] [Server thread/INFO]: JohanArtts has made the advancement [Enchanter]
+[04:08:25] [Server thread/INFO]: JNewHunter lost connection: Disconnected
+[04:08:25] [Server thread/INFO]: JNewHunter left the game
+[04:11:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-917, y=82, z=305} gu{x=-916, y=82, z=305}
+[04:11:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-917, y=82, z=305} gu{x=-916, y=82, z=305}
+[04:11:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-917, y=82, z=305} gu{x=-916, y=82, z=305}
+[04:11:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-917, y=82, z=305} gu{x=-916, y=82, z=305}
+[04:11:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-913, y=85, z=282} gu{x=-913, y=84, z=282}
+[04:11:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-913, y=85, z=282} gu{x=-913, y=84, z=282}
+[04:11:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-913, y=85, z=282} gu{x=-913, y=84, z=282}
+[04:11:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-913, y=85, z=282} gu{x=-913, y=84, z=282}
+[04:11:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-914, y=82, z=287} gu{x=-914, y=83, z=287}
